@@ -1,6 +1,6 @@
 ### Hi , I am Yasin 👋
 
-<a href="https://www.facebook.com/yasinosman_">
+<a href="https://www.facebook.com/yasinosmann">
   <img align="left" alt="Yasin Osman - Facebook" width="20px" src="https://image.flaticon.com/icons/svg/59/59439.svg" />
 </a>
 <a href="https://twitter.com/yasinosman_">
