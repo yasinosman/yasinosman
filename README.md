@@ -20,7 +20,7 @@ I study computer engineering at Istanbul University.
 I develop full-stack web based applications with love.
 
 - 🔭 Currently, I am developing a graphical interface for the communication system that will be used in the airports of the Turkish Air Force in the future.
-- :wrench: I am using HTML, CSS and Javascript for the web interfacee and various socket technologies in order to communicate with an embedded system
+- :wrench: I use HTML, CSS and Javascript technologies while developing the web interface of this project, and socket technologies to communicate with embedded systems.
 - 🌱 Currently learning React Native & Laravel.
 - 💬 You can contact me via social media or send me a mail [here](mailto:yasinosman10@gmail.com)
 
