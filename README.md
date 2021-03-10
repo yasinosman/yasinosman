@@ -1,4 +1,4 @@
-### Hi , I am Yasin 👋
+### Hi , I am Yasin
 
 <a href="https://www.facebook.com/yasinosmann">
   <img align="left" alt="Yasin Osman - Facebook" width="20px" src="https://image.flaticon.com/icons/svg/59/59439.svg" />
@@ -19,8 +19,8 @@
 I study computer engineering at Istanbul University. 
 I develop full-stack web based applications with love.
 
-- 🔭 Currently, I am developing a graphical interface for the communication system of Turkish Air Forces.
-- :wrench: I use HTML, CSS and Javascript technologies while developing the web interface of this project, and socket technologies to communicate with embedded systems.
+- 🔭 Currently, I am working on the communication system of Turkish Air Forces.
+- :wrench: I use React, Redux, Node, MySQL and WebSockets for this project
 - 🌱 Currently learning React Native & Laravel.
 - 💬 You can contact me via social media or send me a mail [here](mailto:yasinosman10@gmail.com)
 
