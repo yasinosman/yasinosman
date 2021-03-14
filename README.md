@@ -17,7 +17,7 @@
 <br />
 
 I study computer engineering at Istanbul University. 
-I develop full-stack web based applications with love.
+I develop full-stack web & mobile applications.
 
 - 🔭 Currently, I am working on the communication system of Turkish Air Forces.
 - :wrench: I use React, Redux, Node, MySQL and WebSockets for this project
