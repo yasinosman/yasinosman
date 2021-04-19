@@ -38,6 +38,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasinosman&show_icons=true&theme=tokyonight" alt="yasin osman :: Profile Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yasinosman&show_icons=true&theme=tokyonight" alt="yasin osman :: Profile Stats" style="height:190px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinosman&langs_count=10&theme=tokyonight&layout=compact" alt="aticiadem :: Top Langs" />
 </p>
