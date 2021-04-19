@@ -37,10 +37,14 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=yasinosman&show_icons=true" alt="yasin osman :: Profile Stats" style="height:190px; display:block;" />
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=yasinosman&show_icons=true" alt="yasin osman :: Profile Stats" style="height:190px; display:block;" />
+</p>
 
 ---
 
 ### Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinosman&langs_count=10" alt="aticiadem :: Top Langs" style="display:block;" />
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinosman&langs_count=10" alt="aticiadem :: Top Langs" style="display:block;" />
+</p>
