@@ -1,36 +1,64 @@
-### Hi , I am Yasin
+### Hi there, I am Yasin
 
-<a href="https://www.facebook.com/yasinosmann">
-  <img align="left" alt="Yasin Osman - Facebook" width="20px" src="https://image.flaticon.com/icons/svg/59/59439.svg" />
-</a>
-<a href="https://twitter.com/yasinosman_">
-  <img align="left" alt="Yasin Osman - Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+## Software Engineer | Computer Engineering Undergraduate
 
-<a href="mailto:yasinosman10@gmail.com">
-  <img align="left" alt="Yasin Osman - Gmail" width="21px" src="https://image.flaticon.com/icons/svg/281/281769.svg" />
-</a>
+-   Creating web & mobile applications with love for over 4 years.
+-   Contributed to the development of the Turkish Air Force's Communication Control System by building web services and a user interface.
+-   Have experience with real-time systems and technologies such as WebSocket.
 
+<p align="center">
+<a href="https://www.linkedin.com/in/yasinosman/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yasinosman-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:yasinosman10@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-yasinosman10@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
+---
 
-<br />
-<br />
+### Tools & Languages
 
-I study computer engineering at Istanbul University. 
-I develop full-stack web & mobile applications.
+#### Front End Development
 
-- 🔭 Currently, I am working on the communication system of Turkish Air Forces.
-- :wrench: I use React, Redux, Node, MySQL and WebSockets for this project
-- 🌱 Currently learning React Native & Laravel.
-- 💬 You can contact me via social media or send me a mail [here](mailto:yasinosman10@gmail.com)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
-**Languages and Tools:**  
+#### Back End Development
 
-<code><img alt="javascript-logo" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img alt="react-logo" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img alt="nodejs-logo" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img alt="mongodb-logo" height="20" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"></code>
-<code><img alt="php-logo" height="20" src="https://www.php.net/images/logos/new-php-logo.png"></code>
-<code><img alt="laravel-logo" height="20" src="https://logos-download.com/wp-content/uploads/2016/09/Laravel_logo.png"></code>
-<code><img alt="mysql-logo" height="20" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code>
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 
+#### DBMS
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+
+#### Version Control
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+#### Project Management
+
+![GitHub Projects](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
+
+#### DevOps
+
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+
+#### Operating Systems
+
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasinosman&show_icons=true" alt="yasin osman :: Profile Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinosman&langs_count=10&theme=tokyonight&layout=compact" alt="aticiadem :: Top Langs" />
+</p>
