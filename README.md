@@ -2,9 +2,10 @@
 
 ## Software Engineer | Computer Engineering Undergraduate
 
--   Creating web & mobile applications with love for over 4 years.
+-   Creating web & mobile applications with love for over 3 years.
 -   Contributed to the development of the Turkish Air Force's Communication Control System by building web services and a user interface.
 -   Have experience with real-time systems and technologies such as WebSocket.
+-   Currently working at  [Yapı Kredi] (https://www.linkedin.com/company/yapikredi/), Turkey's largest bank
 
 <p align="center">
 <a href="https://www.linkedin.com/in/yasinosman/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yasinosman-blue?style=flat&logo=linkedin"></a>
