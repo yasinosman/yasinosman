@@ -1,16 +1,17 @@
-### Hi, I am Yasin
+<h1 align="center">Hi 👋, I'm Yasin <br /><br /> 
+ 
+
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yasinosman_)
+[![](https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-l14n2s7E13ScCWdTjvQCA)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasinosman/)
+[![](https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasinosman10@gmail.com)
+</h1>
+
 
 ## Software Engineer | Computer Engineering Undergraduate
 
 -   Creating web & mobile applications with love for over 3 years.
 -   Currently working at  [Yapı Kredi](https://www.linkedin.com/company/yapikredi/), Turkey's largest bank
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/yasinosman/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yasinosman-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:yasinosman10@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-yasinosman10@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
-
 ---
 
 ### Tools & Languages
@@ -31,6 +32,15 @@
     <a href="https://www.docker.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
     <a href="https://www.linux.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png"/> </a>
 </p>
+
+---
+
+### Most Used Languages
+
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinosman&langs_count=10" alt="aticiadem :: Top Langs" style="display:block;" />
+</p>
+
 ---
 
 ### GitHub Stats
@@ -45,10 +55,4 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=yasinosman&show_icons=true" alt="yasin osman :: Profile Stats" style="height:190px; display:block;" />
 </p>
 
----
 
-### Most Used Languages
-
-<p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinosman&langs_count=10" alt="aticiadem :: Top Langs" style="display:block;" />
-</p>
