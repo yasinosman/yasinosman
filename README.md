@@ -36,6 +36,12 @@
 ### GitHub Stats
 
 <p align="center">
+    <a href="https://github.com/yasinosman/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yasin Osman's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yasinosman&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=yasinosman&show_icons=true" alt="yasin osman :: Profile Stats" style="height:190px; display:block;" />
 </p>
 
