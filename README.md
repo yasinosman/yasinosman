@@ -11,7 +11,7 @@
 ## Software Engineer | Computer Engineering Undergraduate
 
 -   Creating web & mobile applications with love for over 3 years.
--   Currently working at  [Yapı Kredi](https://www.linkedin.com/company/yapikredi/), Turkey's largest bank
+-   Currently working at  [Yapı Kredi](https://www.linkedin.com/company/yapikredi/)
 ---
 
 ### Tools & Languages
