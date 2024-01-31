@@ -8,9 +8,9 @@
 </h1>
 
 
-## Software Engineer | Computer Engineering Undergraduate
+## Software Engineer | Bachelors in Computer Engineering
 
--   Creating web & mobile applications with love for over 3 years.
+-   Creating web & mobile applications with love for over 5 years.
 -   Currently working at  [Algbra](https://www.algbra.com)
 ---
 
