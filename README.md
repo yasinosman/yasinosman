@@ -10,7 +10,7 @@
 
 ## Software Engineer | Bachelors in Computer Engineering
 
--   Creating web & mobile applications with love for over 5 years.
+-   Creating full-stack web & mobile applications with love for over 5 years.
 -   Currently working at  [Algbra](https://www.algbra.com)
 ---
 
