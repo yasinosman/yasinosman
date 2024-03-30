@@ -8,10 +8,12 @@
 </h1>
 
 
-## Software Engineer | Bachelors in Computer Engineering
+## ```$ whoami```
 
--   Creating full-stack web & mobile applications with love for over 5 years.
--   Currently working at  [Algbra](https://www.algbra.com)
+I am a Computer Engineer with a passion for crafting robust technology mainly in the fintech domain. With over 5 years of experience in the field, I specialize in architecting and developing scalable systems that power full-stack web and mobile applications.
+
+Currently immersed in the startup world at [Algbra](https://www.algbra.com), where we're revolutionizing the finance industry by prioritizing people and the planet. Let's shape the future together!
+
 ---
 
 ### Tools & Languages
@@ -29,25 +31,4 @@
 </p>
 
 ---
-
-### Most Used Languages
-
-<p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinosman&langs_count=10" alt="aticiadem :: Top Langs" style="display:block;" />
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-    <a href="https://github.com/yasinosman/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yasin Osman's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yasinosman&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-<p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=yasinosman&show_icons=true" alt="yasin osman :: Profile Stats" style="height:190px; display:block;" />
-</p>
-
 
